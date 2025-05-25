@@ -30,6 +30,8 @@ pip install fastapi uvicorn numpy pillow h5py torch torchvision
 python main.py
 ```
 - address：localhost:8000
+
+![example](./pic_1.png)
 # About Me
 ## AI Algorithm Engineer
 
